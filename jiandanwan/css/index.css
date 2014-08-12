@@ -1,0 +1,54 @@
+#header{height: 35px;background-image:url("images/topAll.gif");display: block;background-repeat: repeat-x;background-position: 0 0;}
+#headerclear{width: 980px;margin: 0 auto;display: block;height: 28px;}
+.right{width: 205px;height: 28px;display: block;float: right;padding: 8px 0 0;}
+.right a{width: 83px;height: 20px;margin: 0 8px;display: inline-block;line-height: 20px;float: left;text-decoration: none;font-size: 13px;font-family: 宋体;color: #000;}
+.down{background-image: url("images/topAll.gif");background-position: 0 -40px;width: 14px;height: 13px;display: inline-block;overflow: hidden;vertical-align: middle;margin:  0 2px;float: right;}
+.up{background-image: url("images/topAll.gif");background-position: 0 -53px;width: 14px;height: 13px;display: inline-block;overflow: hidden;vertical-align: middle;margin: 0 2px;float: right;}
+
+
+
+
+#middle{width: 1349px;height: 1673px;display: block;}
+.banner{height: 80px;margin: 0 auto;display: block;width: 980px;}
+#banner1{width: 234px;height: 60px; float: left;display: block;background-image: url("images/logo.jpg");z-index: 10;margin-top: 10px;}
+#banner2{width: 700px;height: 80px; float: right;display: block;background-image: url("images/logo2.jpg");}
+.bg_nav{width: 1349px;height: 44px;display: block;background-image: url("images/nav.gif");}
+.nav{width: 980px;height: 44px;margin: 0 auto;display: block;}
+.nav li{float: left;width: 124px;padding-right: 1px;text-align: center;display: block;}
+.nav li a{line-height: 44px;font-size: 16px;text-decoration: none;color: #fff;margin: 0 auto;}
+.nav li a:hover{color: rgb(111,255,6);}
+.nav span{line-height: 44px;float: left;color: #fff;}
+
+
+#midbady{width: 980px;height: 1427px;display: block;margin: auto;}
+#midbadyLeft{width: 270px;height: 1429px; float: left;margin-top: 10px;}
+#denglu{width: 270px;height: 270px;display: block;background-image: url("images/logReg.gif");background-repeat: no-repeat;}
+#title{width: 270px;height: 38px;display: block;}
+#title a{text-align: left;text-decoration: none;font-size: 16px;color: #fff;line-height: 38px;padding-left: 15px;font-weight: bold;font-family: 宋体;}
+#dengluCurrent{width: 270px;height: 191px;display: block;margin-top: 5px;}
+#denglubox1{width: 230px;height: 38px;display: block;margin: 0 auto;padding-top: 10px;}
+#user{width: 80px;height: 38px;display: block;float: left;line-height: 38px;}
+#user a{font-size: 13px;font-family: 宋体;text-decoration: none;float: right;color: #000;padding-top: 5px;}
+#nametext{width: 150px;height: 38px;display: block;float: right;padding-top: 10px;}
+#nametext input{width: 144px;height: 28px;display: block;}
+#denglubox2{width: 230px;height: 38px;display: block;padding-top: 10px;margin: 0 auto;}
+#center{width: 230px;height: 29px;display: block;padding-top: 10px;margin: 0 auto;}
+#remember{width: 98px;height: 13px;display: block;float: left;padding-left: 25px;}
+#remember label{font-size: 13px;}
+#findPsw{width: 95px;height: 13px;display: block; float: right;}
+#findPsw a{font-size: 13px;text-decoration: none;color: #000;float: right;}
+#btn{width: 230px;height: 46px;display: block;margin: 0 auto;text-align: center;}
+#btn a{color: #fff;line-height: 30px;text-align: center;text-decoration: none;}
+#btn1{width: 85px;height: 31px;margin: 5px 5px 0;font-weight: bold;background-image: url("images/logReg2.gif");display: block;}
+
+
+
+
+#midbadyRight{width: 700px;height: 1429px; float: right;border: 1px solid #333;margin-top: 10px;}
+
+
+
+
+
+
+
